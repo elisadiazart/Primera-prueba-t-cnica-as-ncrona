@@ -1,7 +1,10 @@
 html {
 }
 body {
-  background-image: url(../assets/images/anubis.jpg);
-  background-size: contain;
-  filter: invert(1);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(33, 39, 51);
 }
